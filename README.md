@@ -17,7 +17,7 @@ This is our implementation for the paper: Bundling-aware Masked Graph AutoEncode
     python3 main.py -g 0 -m BMGAE -d Youshu
     ```
 
-2. After training, you can check the log files in `./log`
+2. After training, you can check the log files in `./logs`
 
 ## Parameter Tuning
 
